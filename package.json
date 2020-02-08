@@ -39,7 +39,7 @@
     "@types/jest": "^25.1.1",
     "@types/node": "^13.7.0",
     "@types/supertest": "^2.0.8",
-    "@typescript-eslint/eslint-plugin": "^2.18.0",
+    "@typescript-eslint/eslint-plugin": "^2.19.0",
     "@typescript-eslint/parser": "^2.19.0",
     "commitizen": "^4.0.3",
     "commitlint-config-cz": "^0.12.1",
